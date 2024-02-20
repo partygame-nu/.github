@@ -1,10 +1,9 @@
 ![Image](./assets/banner.png?raw=true)
 
-# Argon
-## developers
+## 👨‍💻 developers
 * Rick van Berlo  | [github](https://github.com/RickvanBerlo)
 
-## introduction
+## 📖 introduction
 This application will be a web application which profide end users to play party's they created.
 
 End users can create a party with the editor that is provided with the desktop web application. 
@@ -37,7 +36,7 @@ the player will play the game on the mobile or webapplication. they will get the
 at the end of the party there will be a final scoreboard with shows the total points per player or group over the whole party.
 
 
-## services
+## 🔨 services
 
 This section will describe the services that will be implemented for making this web application. it wil explain what the name is of the service and the framework that will be used.
 
@@ -50,11 +49,7 @@ This section will describe the services that will be implemented for making this
 | Security      | AWS Cognito        | [Security](security/REAMDE.md)               |
 
 
-## Wifreframs
-
-The wireframes can be found on the website figma. these are still under development!
-
-## V1
+## 🚀 V1
 The first release of this application wil not contain every feature we have introduced in the upper sector.
 The core functionality of this application wil be implemented for the first release. this means that we will only implement the following:
 
@@ -69,9 +64,9 @@ With these component, a end-user can create a party which is playable.
 The un-implemented features after the first release will be roll out in increments.
 
 
-## Question
+## 🙋‍♂️ Questions
 
-do we need a intro for every item the first time they are playing the item in a party?
+* Do we need a intro for every item the first time they are playing the item in a party?
 Think about mario party.
 
 
