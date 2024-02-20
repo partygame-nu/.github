@@ -3,7 +3,6 @@
 # Argon
 ## developers
 * Rick van Berlo  | [github](https://github.com/RickvanBerlo)
-* Myrthe Schooten | [github](https://github.com/MyrtheSchooten)
 
 ## introduction
 This application will be a web application which profide end users to play party's they created.
